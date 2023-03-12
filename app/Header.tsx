@@ -19,7 +19,7 @@ if (session) return (
             alt='Profile Picture'
         />
         <div>
-            <p className='text-blue-400'>Loggin in as:</p>
+            <p className='text-blue-400'>Logged in as:</p>
             <p className='font-bold tx-lg'>Christian Anca</p>
 
         </div>
